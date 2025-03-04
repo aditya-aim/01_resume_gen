@@ -1,0 +1,9 @@
+streamlit
+openai
+pandas
+streamlit_chat
+textblob
+fpdf
+python-dotenv
+
+
