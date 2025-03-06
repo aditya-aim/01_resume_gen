@@ -23,7 +23,7 @@ if page == "About the App":
     st.title("📄 About AI Resume & Cover Letter Generator")
 
     st.markdown("""
-# 📄 About AI Resume & Cover Letter Generator
+
 
 ## 1️⃣ Name & Role  
 **Agent Name:** **ResumeMate**  
